@@ -20,5 +20,8 @@
     "moment": "^2.29.4",
     "mongoose": "^7.4.3",
     "nodemon": "^3.0.1"
+  },
+  "engines": {
+    "node": "18.14.2"
   }
 }
